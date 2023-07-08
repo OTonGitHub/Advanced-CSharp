@@ -1,0 +1,4 @@
+{
+  "dotnet.defaultSolution": "Delegates.sln",
+  "csharp.debug.console": "externalTerminal"
+}
